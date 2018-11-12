@@ -1,0 +1,14 @@
+.container{
+  background-image: url(https://bpic.588ku.com/element_water_img/18/07/11/7815e1422e1309d63af618d690eadab6.jpg);
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.shouye-banner{
+  width: 750rpx;
+  height:1100rpx;
+  border-radius: 0%;
+}

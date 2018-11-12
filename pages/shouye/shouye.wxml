@@ -1,0 +1,10 @@
+<view class='container1'>
+
+ <text class="info">欢迎</text>
+ <text style='color:#99ccff'>Welcome to Bubble</text>
+ </view>
+<view class='container'>
+ <navigator url='/pages/tansuo/tansuo' open-type='switchTab'><image class='shouye-banner'
+ src="/tupian/shouye1.png"></image></navigator>
+ </view>
+

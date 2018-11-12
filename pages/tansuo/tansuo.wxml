@@ -1,0 +1,7 @@
+<view class="container">
+
+   <navigator url='/pages/bofang/bofang'><image class="shouye-banner" 
+   src='/tupian/tansuo2.png'>
+   </image>
+   </navigator>
+</view>

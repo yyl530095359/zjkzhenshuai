@@ -1,0 +1,3 @@
+<view class='container'>
+  <navigator url='/pages/bofang/bofang' >做好的泡泡</navigator>
+</view>

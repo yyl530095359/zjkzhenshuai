@@ -1,0 +1,28 @@
+{
+  "pages":[
+    
+    "pages/shouye/shouye",
+    "pages/chuangzao/chuangzao",
+    "pages/tansuo/tansuo",
+    "pages/pao/pao",
+    "pages/bofang/bofang"
+    ],
+    "tabBar":{"position":"top",
+    "list":[
+      {
+        "text":"探索",
+        "pagePath":"pages/tansuo/tansuo"
+      },
+      {
+        "text":"创造",
+        "pagePath":"pages/chuangzao/chuangzao" }
+    ],
+    "color":"#000",
+    "selectedColor":"#00f"},
+    "window":{
+      "navigationBarTitleText": "Bubble",
+      "navigationBarBackgroundColor": "#99ccff",
+      "navigationBarTextStyle": "white",
+      "navigationBarTitleSize": "60px"
+    }
+}

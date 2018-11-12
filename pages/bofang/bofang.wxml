@@ -1,0 +1,10 @@
+ <view class='container1'>
+   <image class='shouye-banner' src='/tupian/zhuanji1.jpg'></image>
+ </view>
+ <view class='container'>
+   <text class='info'>理想三旬</text>
+   <text>陈鸿宇</text>
+ </view>
+ <view class='container2'>
+   <image class='shouye-banner' src='/tupian/jindu3.png'></image>
+ </view>

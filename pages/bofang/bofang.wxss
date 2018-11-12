@@ -1,0 +1,46 @@
+.info{
+  font-weight: bold;
+  font-size: 25px;
+  color:black;
+  }
+.container{
+  background-color: rgb(251, 251, 251);
+  height: 25vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  text-indent: 75px;
+ 
+ 
+}
+
+.container1{
+  background-color: rgb(251, 251, 251);
+  height: 50vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  text-align: left;
+ 
+}
+.container2{
+  background-color: rgb(251, 251, 251);
+  height: 25vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+ 
+  }
+
+.shouye-banner{
+  width: 450rpx;
+  height:450rpx;
+  border-radius: 5%;
+  
+}

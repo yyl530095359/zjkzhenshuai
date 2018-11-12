@@ -1,0 +1,9 @@
+.container{
+  background-color: rgb(251, 251, 251);
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
